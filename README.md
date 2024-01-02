@@ -1,5 +1,7 @@
 ## Project Documentation
 
+<img src="/images/SS4.jpeg" width="200">     <img src="/images/SS3.jpeg" width="200">     <img src="/images/SS2.jpeg" width="200">     <img src="/images/SS1.jpeg" width="200">
+
 ### Overview
 This documentation provides an overview of a Flutter project that appears to be a mobile application for managing events. The application includes features such as user authentication, event listing, participant management, and a QR code scanner.
 
